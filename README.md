@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![CrewAI](https://img.shields.io/badge/CrewAI-AgenticAI-green)
+
 # 🏠 Agentic AI House Planner
 
 An intelligent **Agentic AI-powered House Planning System** built using **CrewAI, Ollama and Streamlit**.
